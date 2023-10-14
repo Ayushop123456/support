@@ -41,6 +41,6 @@ A free rank upgrade could be from non-ranked to Ultra, Ultra to Emerald, or Emer
 ### Conditions
 
 * You cannot win consecutive contests
-* Legend players are not eligible for a rank upgrade to Titan at this time
+* Legend players are not eligible for a rank upgrade to Titan at this time how to draw
 
 
